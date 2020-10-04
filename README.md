@@ -1,7 +1,7 @@
-# linux-start
-The simplest way of installing everything you need.
+# Linux Start
+The simplest way of installing everything you need in a Debian-based Linux system.
 
-## instructions
+## Instructions
 ```
 $ sudo apt install git
 $ git clone https://github.com/holocene-epoch/linux-start
