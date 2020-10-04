@@ -1,15 +1,15 @@
 # linux-start
 The simplest way of installing everything you need.
 
-##instructions
+## instructions
 ```
 $ sudo apt install git
 $ git clone https://github.com/holocene-epoch/linux-start
 $ cd linux-start
-$./start.sh
+$ ./start.sh
 ```
 
-##Packages installed
+## Packages installed
 - vim 
 - gnome-core 
 - gnome-tweaks 
