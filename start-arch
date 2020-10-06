@@ -1,0 +1,6 @@
+sudo pacman -Syu
+
+sudo pacman -S vim gnome-core gnome-tweaks vlc steam lutris wine chromium discord
+sudo pacman R
+
+sudo pacman -Syu
