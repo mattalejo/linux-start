@@ -3,7 +3,6 @@ The simplest way of installing everything you need in a Linux system.
 
 ## Instructions
 
-```
 For *Arch-based* linux distros (Arch Linux, Manjaro, etc):
 ```
 $ sudo pacman -S git
